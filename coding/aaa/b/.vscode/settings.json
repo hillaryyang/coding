@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "ratio": "cpp",
+        "iosfwd": "cpp",
+        "__locale": "cpp",
+        "ios": "cpp",
+        "vector": "cpp",
+        "istream": "cpp",
+        "string": "cpp"
+    }
+}

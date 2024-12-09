@@ -1,0 +1,6 @@
+1. Sort based on arrival time
+2. Tiebreak by seniority
+3. If there are cows in the priority queue, take the first one
+4. If not, take the next cow in the list
+5. Keep a next cow to tell you what's the next cow to start eating
+6. Maximum wait time found from b + 1 - arrival time, 0 when pq empty

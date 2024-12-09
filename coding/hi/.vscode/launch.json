@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "clang++ - Build and debug active file",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${fileDirname}/${fileBasenameNoExtension}",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "externalConsole": true,
+        "MIMode": "lldb",
+        "preLaunchTask": "C/C++: clang++ build active file"
+      },
+      {
+        "name": "C/C++ Runner: Debug Session",
+        "type": "cppdbg",
+        "request": "launch",
+        "args": [
+          ""
+        ],
+        "stopAtEntry": true,
+        "cwd": "/Users/haiyli/project-c++",
+        "environment": [],
+        "program": "/Users/haiyli/project-c++/build/Debug/outDebug",
+        "internalConsoleOptions": "openOnSessionStart",
+        "MIMode": "gdb",
+        "externalConsole": true
+      }
+    ]
+  }
+  
+  

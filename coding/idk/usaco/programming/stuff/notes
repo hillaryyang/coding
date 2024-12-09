@@ -1,0 +1,11 @@
+notes
+
+REVIEW DFS AND TRY TO ACTUALLY UNDERSTAND
+
+CLASS:
+private can only be accessed within the class define thing
+public can be used anywhere in the program
+for example, in a classroom, age/height would be private 
+while name could be public
+
+struct and class are pretty similar

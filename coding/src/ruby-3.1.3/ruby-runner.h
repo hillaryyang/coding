@@ -1,0 +1,9 @@
+#define ABS_SRCDIR "/Users/hillaryyang/src/ruby-3.1.3"
+#define BUILDDIR   "/Users/hillaryyang/src/ruby-3.1.3"
+#define LIBPATHENV "DYLD_FALLBACK_LIBRARY_PATH"
+#define PRELOADENV "DYLD_INSERT_LIBRARIES"
+#define PATH_SEPARATOR ":"
+#define PATH_SEP   ':'
+#define EXTOUT     ".ext"
+#define ARCH       "arm64-darwin22"
+#define SOEXT      "dylib"

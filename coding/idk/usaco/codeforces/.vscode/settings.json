@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "set": "cpp",
+        "__tree": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "complex": "cpp",
+        "algorithm": "cpp",
+        "__split_buffer": "cpp"
+    }
+}
