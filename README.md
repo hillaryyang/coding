@@ -1,2 +1,0 @@
-# hmmm
-# cube-scrambling
